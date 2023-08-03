@@ -3,7 +3,7 @@ Module to create timeouts in your python code.
 During the timeout, your code runs normally because the timeout is running in a second thread
 The accuracy of the timeout is roughly 0.1 seconds (maximum of 0.2) with the normal frequency.
 
-Go check the GitHub page for the documentation and more information:
+Go check the GitHub page for the documentation and more information: https://github.com/fastattackv/TimeOut
 
 Developed by Fastattack
 
